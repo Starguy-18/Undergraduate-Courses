@@ -1,2 +1,97 @@
 # Undergraduate-Courses
-Repository of all academic coding assignments during my unergraduate terms at Rensselaer Polytechnic Institute
+-Repository of all academic coding assignments during my unergraduate terms at Rensselaer Polytechnic Institute
+-When I was taking these courses, I saved everything on my personal machine and on my Dropbox
+-I want to add all of my technical work and projects onto GitHub
+-I have spent time either redooing or fixing my old assignments as a way of keeping my skills sharp
+-This process does not change documents that were made when taking the course
+-In modifications/fixes are made in new subfolders
+
+Courses
+     -Computer Science I (Introductory Computer Science Class)
+          -Course ID: CSCI 1100
+          -Semester: Fall 2016
+          -Primary Language: Python
+          -Instructor: Prof. Charles Stewart, Prof. Wes Turner
+          -Gade: A-
+          -Credit Hours: 4.000
+          -Quality Points: 14.68
+     -Data Structures
+          -Course ID: CSCI 1200
+          -Semester: Fall 2017
+          -Primary Language: C++
+          -Instructor: Associate Prof. Barbara Cutler
+          -Grade: B+
+          -Credit Hours: 4.000
+          -Quality Points: 13.32
+     -Computer Organization
+          -Course ID: CSCI 2500
+          -Semester: Spring 2018
+          -Primary Language: C, MIPS Assembly
+          -Instructor: Prof. Martin Hardwick (Retired)
+          -Grade: B
+          -Credit Hours: 4.000
+          -Quality Points: 12.00
+     -Foundations of Computer Science
+          -Course ID: CSCI 2200
+          -Semester: Fall 2018
+          -Primary Language: Theoretical course with limitied to no direct programming
+          -Instructor: Prof. Jeff Trinkle (Adjunct Professor? Not listed in RPI faculty records)
+          -Grade: B
+          -Credit Hours: 4.000
+          -Quality Points: 12.00
+     -Introduction to Algorithms
+          -Course ID: CSCI 2300
+          -Semester: Spring 2019
+          -Primary Language: Python
+          -Instructor: Prof. Eliot Anshelevich (was listed as Prof. Bulent Yener but changed at the last minute)
+          -Gade: A-
+          -Credit Hours: 4.000
+          -Quality Points: 14.68
+     -Principles of Software
+          -Course ID: CSCI 2600
+          -Semester: Spring 2019
+          -Primary Language: Java
+          -Instructor: Prof. William Thompson (Adjunct professor? Not listed in RPI faculty records) Prof. Carlos Varela
+          -Grade: B+
+          -Credit Hours: 4.000
+          -Quality Points: 13.32
+     -Learning from Data (Machine Learning)
+          -Course ID: CSCI 4100
+          -Semester: Fall 2019
+          -Primary Language: Python
+          -Instructor: Prof. Malik-Magdon Ismail
+          -Grade: B
+          -Credit Hours: 4.000
+          -Quality Points: 12.00
+     -Programming Langauges
+          -Course ID: CSCI 4430
+          -Semester: Fall 2019
+          -Primary Languages: Haskell, Erlang, Prolog
+          -Instructor: Prof. Carlos Varela
+          -Grade: B
+          -Credit Hours: 4.000
+          -Quality Points: 12.00
+     -Database Systems
+          -Course ID: CSCI 4380
+          -Semester: Fall 2019
+          -Primary Language: PostgreSQ
+          -Professor: Prof. Sibel Adali
+          -Grade: B
+          -Credit Hours: 4.000
+          -Quality Points: 12.00
+     -Data Analytics (Information Technology and Web Science (ITWS) cross listed course)
+          -Semester: Spring 2020
+          -Primary Language: R
+          -Professor: 
+          -Result: Pass no Credit
+    -Operating Systems
+         -Course ID:
+         -Semester: Spring 2020
+         -Primary Language: C
+         -Instructor: Prof. Wes Turner
+         -Grade:
+         -Credit Hours:
+         -Quality Points
+    -Computer Vision
+         -I never took this course, but I really wanted to; a friend gave me the course assignment sheets, so I gave them a try
+    
